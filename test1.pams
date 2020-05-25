@@ -1,0 +1,17 @@
+# Prueba de Sintáxis completa #
+
+num x = 11;
+texto nombre = "Alex Frausto";
+num n = 10 * 10 + 10;
+texto saludo = "Hola " + nombre;
+
+# Esto  es un Comentario #
+
+para num i = 0 :: > 3 :: + 1 {
+    imprime "Hola";
+}
+
+si x == 11 {
+    imprime saludo;
+}
+

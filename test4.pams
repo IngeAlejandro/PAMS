@@ -1,0 +1,3 @@
+# Ejemplo de Error en la declaración de variable #
+
+num x = a;

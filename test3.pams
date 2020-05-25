@@ -1,0 +1,7 @@
+# Ecuaciones #
+
+num a = 3 + 3;
+num b = 3 * 3;
+num c = 3 / 3;
+num d = 3 - 3;
+

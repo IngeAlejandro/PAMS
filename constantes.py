@@ -1,0 +1,6 @@
+CLAVES = ["si", "para", "imprime"]
+FUNCIONES = ["imprime"]
+TIPOS = ["num", "texto"]
+OPERADORES = ["+", "-", "*", "/", "="]
+OPERADORES_INC = ["+=", "-="]
+COMPARADORES = ["==", "!=", "<=", ">=", "<", ">"]

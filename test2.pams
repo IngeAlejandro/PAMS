@@ -1,0 +1,6 @@
+# Prueba de Error en declaracion de variable #
+# La variable ha sido declarada dos veces. Se espera que regrese err en la declaración. #
+
+num x;
+num x = 1;
+

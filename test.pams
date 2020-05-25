@@ -1,0 +1,15 @@
+# Toda la sintáxis funcionando #
+
+num x = 11;
+texto saludo = "Hola";
+num n = 10 * 10 + 10;
+
+# Esto es un comentario #
+
+para num i = 0 :: > 3 :: + 1 {
+    imprime saludo;
+}
+
+si n == 110{
+    imprime "Correcto";
+}
